@@ -48,3 +48,4 @@ fetch com prune - limpar localmente os branches que ja' foram apagados no remote
 git fetch -- prune
 
 
+mais qq coisa :) 
