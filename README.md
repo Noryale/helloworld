@@ -24,3 +24,6 @@ git mv source destination (move or rename)
 2 line breaks - paragraph  
 
 2 space end of 1st line + line break 
+
+
+These changes were made on github.com
