@@ -32,3 +32,19 @@ These changes were made on github.com
 
 Adding more stuff (lb above)
 more VSC changes
+
+## this is my first branch
+not really sure what im doing with this yet!
+git checkout branch_name
+
+
+se o branch for criado remotely, esta' no repo mas nao no PC - Fetch first, then checkout.
+git fetch
+git checkout branch_name 
+(kebab > pull, push > fetch) or ctrl+shift+p > fetch
+
+
+fetch com prune - limpar localmente os branches que ja' foram apagados no remote.
+git fetch -- prune
+
+
